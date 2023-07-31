@@ -1,0 +1,1 @@
+export const NotFound = () => <div className="page">❌Error:404 Not Found</div>
